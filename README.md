@@ -1,5 +1,3 @@
-# Happy
-
 ![Logo](https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/master/.github/logo.svg)
 
 ## :rocket: O que é a aplicação:
